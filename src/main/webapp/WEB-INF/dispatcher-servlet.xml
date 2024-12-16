@@ -10,7 +10,7 @@
         http://www.springframework.org/schema/mvc
         http://www.springframework.org/schema/mvc/spring-mvc.xsd">
     <!-- Quét các package chứa Controller -->
-    <context:component-scan base-package="org.example.emailvalidate"/>
+    <context:component-scan base-package="org.example.emailvalidate.Controller"/>
 
     <mvc:annotation-driven/>
 

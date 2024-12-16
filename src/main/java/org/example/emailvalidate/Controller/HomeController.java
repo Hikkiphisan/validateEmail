@@ -1,4 +1,4 @@
-package org.example.emailvalidate;
+package org.example.emailvalidate.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
